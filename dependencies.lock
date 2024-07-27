@@ -1,0 +1,15 @@
+dependencies:
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.2
+  lvgl/lvgl:
+    component_hash: null
+    source:
+      path: /home/matheus/Documentos/Projects/esp32/esp32-lvgl-test/components/lvgl__lvgl
+      type: local
+    version: 7.11.0
+manifest_hash: a867cadb9523025d7ba79a74cacb55d3ca15d5f9bc349e171b5caa0b71896581
+target: esp32
+version: 1.0.0
